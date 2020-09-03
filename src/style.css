@@ -1,0 +1,21 @@
+.bar {
+  fill: steelblue;
+}
+
+.highlight {
+  fill: orange;
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.title {
+  fill: teal;
+  font-weight: bold;
+}
